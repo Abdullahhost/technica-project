@@ -1,0 +1,29 @@
+.tablesection{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    flex-direction: column;
+}
+table{
+    width: 100%;
+}
+
+thead{
+    background: #000;
+    color: #ffff;
+    padding: 1rem;
+}
+
+td, tr, th{
+    border: none;
+    padding: .5rem
+}
+
+.odd_class{
+    background: var(--tr-color);
+
+}
+.even_class{
+    background: #ffff;
+}

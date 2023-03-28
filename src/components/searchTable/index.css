@@ -1,0 +1,9 @@
+.search-container input{
+    min-width: 250px;
+    max-width: 700px;
+    padding: 1rem .5rem;
+    border: none;
+    outline: none;
+    border-bottom: 1.5px solid #0004;
+    box-shadow: 5px 2px 5px #0003;
+}

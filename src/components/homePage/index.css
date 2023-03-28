@@ -1,0 +1,124 @@
+.table__section-header{
+    width: 100%;
+    padding: 1.5rem 0;
+    
+    display: flex;
+    flex-wrap: wrap;
+    align-items: flex-end;
+    justify-content: space-between;
+
+}
+.buttonSection{
+    margin-top: 1rem;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: flex-end;
+}
+.btn-primary{
+    padding: .5rem 1rem;
+    border: none;
+    outline: none;
+    background: #000;
+    color: #ffff;
+    margin: .1rem;
+    border-radius: 3px;
+    transition: all ease 100ms;
+}
+.btn-primary:hover{
+    background: #3b4972;
+}
+.btn-agree{
+    padding: .5rem 1rem;
+    border: none;
+    outline: none;
+    background: #673ab7;
+    color: #ffff;
+    margin: .1rem;
+    border-radius: 3px;
+    transition: all ease 100ms;
+}
+.btn-agree:hover{
+    background: crimson;
+    color: #fff;
+}
+
+.book_modal{
+    position: absolute;
+    top: 40%;
+    left: 25%;
+    
+    width: 50%;
+    display: flex;
+    align-items: flex-start;
+    justify-content: flex-start;
+    flex-direction: column;
+    
+    padding: 2rem 3rem;
+    background: #EDF7ED;
+    border: 1px solid #0002;
+    border-radius: 5px;
+    transform: translate(-50% , -50%);
+}
+.book_modal h5{
+    margin-bottom: 1rem;
+}
+.book_modal-button{
+    margin: 1rem 0;
+}
+
+.book_modal-select, select{
+    width: 100%;
+    height: 2rem; 
+
+    outline: none;
+    border: none;
+    color: #eee6e6;
+    background: #141414;
+    margin-bottom: 2rem;
+}
+
+.book_modal-input{
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    gap: 1rem;
+
+}
+.book_modal-input  div input{
+   padding :.5rem;
+
+   border: none;
+   outline: none;
+   border-bottom: 1px solid #0002;
+}
+
+
+
+.scale-up-ver-center {
+	-webkit-animation: scale-up-ver-center 0.4s cubic-bezier(0.390, 0.575, 0.565, 1.000) both;
+	        animation: scale-up-ver-center 0.4s cubic-bezier(0.390, 0.575, 0.565, 1.000) both;
+}
+
+ @-webkit-keyframes scale-up-ver-center {
+    0% {
+      -webkit-transform: scaleY(0.4);
+              transform: scaleY(0.4);
+    }
+    100% {
+      -webkit-transform: scaleY(1);
+              transform: scaleY(1);
+    }
+  }
+  @keyframes scale-up-ver-center {
+    0% {
+      -webkit-transform: scaleY(0.4);
+              transform: scaleY(0.4);
+    }
+    100% {
+      -webkit-transform: scaleY(1);
+              transform: scaleY(1);
+    }
+  }
+  
