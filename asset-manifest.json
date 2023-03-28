@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/technica-project/static/css/main.45ca210d.css",
+    "main.js": "/technica-project/static/js/main.b116acd1.js",
+    "static/media/roboto-all-400-normal.woff": "/technica-project/static/media/roboto-all-400-normal.c5d001fa922fa66a147f.woff",
+    "static/media/roboto-latin-400-normal.woff2": "/technica-project/static/media/roboto-latin-400-normal.b009a76ad6afe4ebd301.woff2",
+    "static/media/roboto-cyrillic-ext-400-normal.woff2": "/technica-project/static/media/roboto-cyrillic-ext-400-normal.804378952da8a10faae2.woff2",
+    "static/media/roboto-latin-ext-400-normal.woff2": "/technica-project/static/media/roboto-latin-ext-400-normal.861b791f9de857a6e7bc.woff2",
+    "static/media/roboto-cyrillic-400-normal.woff2": "/technica-project/static/media/roboto-cyrillic-400-normal.71a33b6b50457b2c903a.woff2",
+    "static/media/roboto-greek-400-normal.woff2": "/technica-project/static/media/roboto-greek-400-normal.c35e4c3958e209d17b31.woff2",
+    "static/media/roboto-vietnamese-400-normal.woff2": "/technica-project/static/media/roboto-vietnamese-400-normal.3230f9b040f3c630e0c3.woff2",
+    "static/media/roboto-greek-ext-400-normal.woff2": "/technica-project/static/media/roboto-greek-ext-400-normal.169619821ea93019d1bb.woff2",
+    "index.html": "/technica-project/index.html",
+    "main.45ca210d.css.map": "/technica-project/static/css/main.45ca210d.css.map",
+    "main.b116acd1.js.map": "/technica-project/static/js/main.b116acd1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.45ca210d.css",
+    "static/js/main.b116acd1.js"
+  ]
+}
